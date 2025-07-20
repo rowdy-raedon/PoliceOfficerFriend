@@ -14,9 +14,10 @@
     "expo-av": "~14.0.7",
     "expo-speech": "~12.0.2",
     "expo-status-bar": "~1.12.1",
+    "expo-linear-gradient": "~13.0.2",
     "react": "18.2.0",
     "react-native": "0.74.5",
-    "react-native-vector-icons": "^10.0.3",
+    "react-native-paper": "^5.12.3",
     "@expo/vector-icons": "^14.0.2"
   },
   "devDependencies": {
