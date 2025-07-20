@@ -4,11 +4,8 @@
     "slug": "police-officer-friend",
     "version": "1.0.0",
     "orientation": "landscape",
-    "icon": "./src/assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./src/assets/splash.png",
-      "resizeMode": "contain",
       "backgroundColor": "#1E3A8A"
     },
     "assetBundlePatterns": [
@@ -18,18 +15,11 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./src/assets/adaptive-icon.png",
-        "backgroundColor": "#1E3A8A"
-      },
       "permissions": [
         "android.permission.RECORD_AUDIO",
         "android.permission.INTERNET",
         "android.permission.ACCESS_NETWORK_STATE"
       ]
-    },
-    "web": {
-      "favicon": "./src/assets/favicon.png"
     },
     "plugins": [
       [
